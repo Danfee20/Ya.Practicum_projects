@@ -12,5 +12,5 @@
 
 
 Связаться со мной:
-email: Danfee20@yandex.ru
-telegram: @Danfee
+- email: Danfee20@yandex.ru
+- telegram: @Danfee
